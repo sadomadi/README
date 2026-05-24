@@ -11,15 +11,11 @@ ul {
   display: table;
   margin: 0 auto;
 }
-<!--
-<html>
-<body>
-  <ul>
-    <li>56456456</li>
-    <li>4564564564564649999999999999999999999999999996</li>
-    <li>45645</li>
-  </ul>
-</body>
+<p align="center">
+<li> ${\textsf{\color{Grey}my name is leonhardt! i'm 22 and bisexual (team player)}}$</li>
+<li> ${\textsf{\color{Grey}i adore drawing more than anything, and i am very passionate about it.}}$</li>
+<li>${\textsf{\color{Grey}I AM A NAHYUTA SAHDMADHI ENJOYER!! I LOVE HIM!!! }}$</li>
+<li> ${\textsf{\color{Grey}ace attorney is great! talk to me about it <3}}$</li> 
   
 <br clear="right"/>
 <br clear="right"/>
