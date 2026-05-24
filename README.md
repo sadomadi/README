@@ -8,8 +8,8 @@
 <img align="right" src="https://img.sanishtech.com/u/e2d3ea524ce8ccc96b5ef6a836e7857d.png">
 <p align="center">
 ul {
-  display: table;
-  margin: 0 auto;
+  text-align: center;
+  list-style-position: inside;
 }
 <p align="center">
 <li> ${\textsf{\color{Grey}my name is leonhardt! i'm 22 and bisexual (team player)}}$</li>
