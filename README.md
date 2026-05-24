@@ -8,13 +8,19 @@
 <img align="right" src="https://img.sanishtech.com/u/e2d3ea524ce8ccc96b5ef6a836e7857d.png">
 <p align="center">
 <!--
+ul {
+  display: table;
+  margin: 0 auto;
+}
+<!--
 <html>
 <body>
-  <ul> hhh
+  <ul>
     <li>56456456</li>
     <li>4564564564564649999999999999999999999999999996</li>
     <li>45645</li>
   </ul>
+</body>
   
 <br clear="right"/>
 <br clear="right"/>
