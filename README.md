@@ -1,7 +1,7 @@
 <p align="center"></p>
 <p align="center"></p>
 <p align="center"> <img align="center" img src="https://64.media.tumblr.com/955bd72dbbe90016c031b60e5f282670/6a1cf2a03e8f2eee-43/s540x810/cb471e2c695ea47242607f1c0530ab07b789da3c.gif" /> </p>
-<h1 align="center"> ${\textsf{\color{Brown}WELCOME!! please read}}$  </h1>
+<h1 align="center"> ${\textsf{\color{Brown}LEONHARDT / Cain}}$  </h1>
 
 ## 
 <p align="center"> ${\textsf{\color{Orchid}INFORMATION}}$
