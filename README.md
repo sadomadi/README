@@ -4,41 +4,25 @@
 <h1 align="center"> ${\textsf{\color{Brown}LEONHARDT / Cain}}$  </h1>
 
 ## 
+<ul>
 <p align="center"> ${\textsf{\color{Brown}INFORMATION}}$
 <img align="right" src="https://img.sanishtech.com/u/e2d3ea524ce8ccc96b5ef6a836e7857d.png">
-<p align="center">
-ul {
-    display: table; 
-    margin: 0 auto;
-    text-align: left;
-}
-}
-<style>
-.myDivElement{
-    text-align:center;
-}
-.myDivElement ul li{
-   display:inline;
+<ul align="center">
 
- }
-</style>
-<div class="myDivElement">
-<ul>
-    <li>Home</li>
-    <li>About</li>
-    <li>Gallery</li>
-    <li>Contact</li>
+
+<li> ${\textsf{\color{Grey}she/her, 24 years, bisexual}}$</li>
+<li> ${\textsf{\color{Grey}i am an artist! i love drawing! }}$</li>
+<li>${\textsf{\color{Grey} i fucking love kazuma asougi }}$</li>
+<li> ${\textsf{\color{Grey} c+h is both welcome and encouraged}}$</li>
 </ul>
-</div>
+
   
 <br clear="right"/>
 <br clear="right"/>
 <br clear="left"/>
 
-## 
 <p align="center"> ${\textsf{\color{Orchid}INTERACTIONS}}$
-<img align="right" src="https://preview.redd.it/orchestra-hall-artworks-from-the-official-site-v0-vnunrebmgnpb1.png?width=104&format=png&auto=webp&s=6c24510012b00b8d7d758ac0934f674a9dd43d46">
-<img align="left" src="https://static.wikia.nocookie.net/aceattorneytwitterrp/images/0/09/BOOMER%21%21%21.jpg/revision/latest?cb=20190606185536" width="200" height="200">
+<img align="left" src="https://img.sanishtech.com/u/72642d2f1ce73a46a790ef1414b8e5eb.png">
   
 <ul>
 <li> ${\textsf{\color{Grey}c + h means you are always welcome to cuddle and hide me, i do not care}}$</li>
