@@ -4,15 +4,13 @@
 <h1 align="center"> ${\textsf{\color{Brown}LEONHARDT / Cain}}$  </h1>
 
 ## 
-<p align="center"> ${\textsf{\color{Orchid}INFORMATION}}$
-<img align="left" src="https://i.pinimg.com/736x/e6/41/f1/e641f1d881badd842d07c486b21d649a.jpg" width="200" height="200">
+<p align="center"> ${\textsf{\color{Brown}INFORMATION}}$
 <img align="right" src="https://img.sanishtech.com/u/e2d3ea524ce8ccc96b5ef6a836e7857d.png">
 <p align="center">
-<li> ${\textsf{\color{Grey}my name is leonhardt! i'm 22 and bisexual (team player)}}$</li>
-<li> ${\textsf{\color{Grey}i adore drawing more than anything, and i am very passionate about it.}}$</li>
-<li>${\textsf{\color{Grey}I AM A NAHYUTA SAHDMADHI ENJOYER!! I LOVE HIM!!! }}$</li>
-<li> ${\textsf{\color{Grey}ace attorney is great! talk to me about it <3}}$</li> 
-
+<li> ${\textsf{\color{Grey}she/her, 22, bisexual }}$</li>
+<li> ${\textsf{\color{Grey}i am an artist! i enjoy drawing!!}}$</li>
+<li>${\textsf{\color{Grey}i fucking love kazuma so much}}$</li>
+  
 <br clear="right"/>
 <br clear="right"/>
 <br clear="left"/>
