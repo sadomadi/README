@@ -6,7 +6,7 @@
 ## 
 <p align="center"> ${\textsf{\color{Orchid}INFORMATION}}$
 <img align="left" src="https://i.pinimg.com/736x/e6/41/f1/e641f1d881badd842d07c486b21d649a.jpg" width="200" height="200">
-<img align="right" src="https://img.sanishtech.com/u/e2d3ea524ce8ccc96b5ef6a836e7857d.png" width="200" height="200">
+<img align="right" src="https://img.sanishtech.com/u/e2d3ea524ce8ccc96b5ef6a836e7857d.png">
 <p align="center">
 <li> ${\textsf{\color{Grey}my name is leonhardt! i'm 22 and bisexual (team player)}}$</li>
 <li> ${\textsf{\color{Grey}i adore drawing more than anything, and i am very passionate about it.}}$</li>
