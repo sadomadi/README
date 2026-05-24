@@ -7,9 +7,19 @@
 <p align="center"> ${\textsf{\color{Brown}INFORMATION}}$
 <img align="right" src="https://img.sanishtech.com/u/e2d3ea524ce8ccc96b5ef6a836e7857d.png">
 <p align="center">
-<li>${\textsf{\color{Grey}she/her, 22, bisexual }}$</li>
-<li>${\textsf{\color{Grey}i am an artist! i enjoy drawing!!}}$</li>
-<li>${\textsf{\color{Grey}i fucking love kazuma so much}}$</li>
+ul {
+  display: table;
+  margin: 0 auto;
+}
+<!--
+<html>
+<body>
+  <ul>
+    <li>56456456</li>
+    <li>4564564564564649999999999999999999999999999996</li>
+    <li>45645</li>
+  </ul>
+</body>
   
 <br clear="right"/>
 <br clear="right"/>
