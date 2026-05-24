@@ -9,7 +9,7 @@
 <p align="center">
 <li>${\textsf{\color{Grey}she/her, 22, bisexual }}$</li>
 <li>${\textsf{\color{Grey}i am an artist! i enjoy drawing!!}}$</li>
-<li></li>${\textsf{\color{Grey}i fucking love kazuma so much}}$</li>
+<li>${\textsf{\color{Grey}i fucking love kazuma so much}}$</li>
   
 <br clear="right"/>
 <br clear="right"/>
