@@ -8,14 +8,28 @@
 <img align="right" src="https://img.sanishtech.com/u/e2d3ea524ce8ccc96b5ef6a836e7857d.png">
 <p align="center">
 ul {
-  text-align: center;
-  list-style-position: inside;
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
 }
-<p align="center">
-<li> ${\textsf{\color{Grey}my name is leonhardt! i'm 22 and bisexual (team player)}}$</li>
-<li> ${\textsf{\color{Grey}i adore drawing more than anything, and i am very passionate about it.}}$</li>
-<li>${\textsf{\color{Grey}I AM A NAHYUTA SAHDMADHI ENJOYER!! I LOVE HIM!!! }}$</li>
-<li> ${\textsf{\color{Grey}ace attorney is great! talk to me about it <3}}$</li> 
+}
+<style>
+.myDivElement{
+    text-align:center;
+}
+.myDivElement ul li{
+   display:inline;
+
+ }
+</style>
+<div class="myDivElement">
+<ul>
+    <li>Home</li>
+    <li>About</li>
+    <li>Gallery</li>
+    <li>Contact</li>
+</ul>
+</div>
   
 <br clear="right"/>
 <br clear="right"/>
